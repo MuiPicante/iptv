@@ -470,41 +470,6 @@ https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 #EXTINF:-1 tvg-id="FX.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400//content/w/Uq/16203/Thumbnail.png?v=637080272246525439" group-title="Dizi", FX TV HD
 https://saran-live.ercdn.net/fx/index.m3u8
 
-#EXTINF:-1 tvg-id="MaçkolikTv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQXBHGz5C0zLbrSyYyx-hHVzjcuOIXVocrhQXADivzPqqFiL-7Bo6LAiY&s=10" group-title="Spor", Maçkolik TV
-https://mackolik-live.ercdn.net/mackolik/mackolik_1080p.m3u8
-#EXTINF:-1 tvg-id="tabii spor.tr"  tvg-logo="https://androbjk34.serv00.net/png/tabiispr.png" group-title="Spor",Tabii Spor
-https://ds.ayakkabiparti.lol/tabi/index.m3u8
-#EXTINF:-1 tvg-id="Tabii Spor 1" tvg-logo="https://androbjk34.serv00.net/png/tabii1.png" group-title="Spor",Tabii Spor 1
-https://ds.ayakkabiparti.lol/tabi1/index.m3u8
-#EXTINF:-1 tvg-id="Tabii Spor 2"  tvg-logo="https://androbjk34.serv00.net/png/tabii2.png" group-title="Spor",Tabii Spor 2
-https://ds.ayakkabiparti.lol/tabi2/index.m3u8
-#EXTINF:-1 tvg-id="Tabii Spor 3" tvg-logo="https://androbjk34.serv00.net/png/tabii3.png" group-title="Spor",Tabii Spor 3
-https://ds.ayakkabiparti.lol/tabi3/index.m3u8
-#EXTINF:-1 tvg-id="Tabii Spor 4" tvg-logo="https://androbjk34.serv00.net/png/tabii4.png" group-title="Spor",Tabii Spor 4
-https://ds.ayakkabiparti.lol/tabi4/index.m3u8
-#EXTINF:-1 tvg-id="Tabii Spor 5" tvg-logo="https://androbjk34.serv00.net/png/tabii5.png" group-title="Spor",Tabii Spor 5
-https://ds.ayakkabiparti.lol/tabi5/index.m3u8
-#EXTINF:-1 tvg-id="Tabii Spor 6" tvg-logo="https://androbjk34.serv00.net/png/tabii6.png" group-title="Spor",Tabii Spor 6
-https://ds.ayakkabiparti.lol/tabi6/index.m3u8
-#EXTINF:-1 tvg-id="Tabii Spor 7" tvg-logo="https://androbjk34.serv00.net/png/tabii6.png" group-title="Spor",Tabii Spor 7
-https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8?app=web
-#EXTINF:-1 tvg-id="National Geographic WILD.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400//content/U/GH/16199/Thumbnail.png?v=637141612229716915" group-title="Belgesel", NAT GEO WİLD HD
-https://saran-live.ercdn.net/natgeowild/index.m3u8
-#EXTINF:-1 tvg-id="National Geographic.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400//content/V/zw/16198/Thumbnail.png?v=637080263252321251" group-title="Belgesel", NAT GEO HD
-https://saran-live.ercdn.net/natgeohd/index.m3u8
-#EXTINF:-1 tvg-id="BBC EARTH.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400//content/e/Bj/11896/Thumbnail.png?v=636996527021886315" group-title="Belgesel", BBC EARTH HD
-https://ds.ayakkabiparti.lol/bbc/index.m3u8
-#EXTINF:-1 tvg-id="TARİH TV.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400//content/1/Fd/58626/Thumbnail.png?v=638288263696795101" group-title="Belgesel", Tarih TV HD
-https://ds.ayakkabiparti.lol/tarihtv/index.m3u8
-#EXTINF:-1 tvg-id="History Channel.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400//content/y/Ey/37198/Thumbnail.png?v=637554127141657600" group-title="Belgesel", HISTORY HD
-https://ds.ayakkabiparti.lol/history/index.m3u8
-#EXTINF:-1 tvg-id="LoveNature.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400//content/u/6a/18359/Thumbnail.png?v=637194414598070635" group-title="Belgesel", Love Nature HD
-http://95.67.12.82:9098/
-#EXTINF:-1 tvg-id="DISNEY JUNIOR.tr" tvg-logo="https://cdn.ssportplus.com/35/3165/pTdVMnEb5953/pTdVMnEb5953.jpg" group-title="Çocuk", DISNEY JR.
-https://saran-live.ercdn.net/disneyjunior/index.m3u8
-#EXTINF:-1 tvg-id="Da Vinci.tr" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/sinematv_logo_A0CC7C58-E100-4C18-8B8D-BF961C4F785E.png"  group-title="Belgesel", Davinci Learning
-https://m3u8-proxy-1-urh0.onrender.com/proxy?url=https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/film/arzu-film.m3u8
-
 #EXTINF:-1 tvg-id="kanald.tr" tvg-name="KANAL D HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/TURKIYE/KANALD.png" group-title="|TR| ULUSAL",KANAL D HD
 https://goldvod.org/live/hpgdiscoo/123456/262.m3u8
 #EXTINF:-1 tvg-id="atv.tr" tvg-name="ATV FHD" tvg-logo="https://gbzottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/71/0916028009315eb88428_op_0_XL.webp" group-title="|TR| ULUSAL",ATV FHD
