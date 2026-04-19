@@ -456,40 +456,6 @@ https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="Dream Turk" tvg-id="DreamTurk.tr" tvg-logo="https://i.ibb.co/fxRrKmB/dream-turk.png" group-title="MUZIK",DREAM TURK
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Zarok TV" tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/vOMV90y25YDRtvUVCbkoAvQ_5rGZsMAxQkegh-R5xQdUi0g-YRcuQno1yuw3v-CB1A=w240-h480-rw" group-title="Çocuk",Zarok TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://zindikirmancki.zaroktv.com.tr/hls/stream.m3u8
-#EXTINF:1 tvg-id="Zarok TV Kürtçe" tvg-logo="http://assets.tvcdn.net/15e32d50-4058-4fa6-a6e2-3e1dbc35c70c.jpeg" group-title="Çocuk",Zarok TV Kürtçe
-https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
-
-#EXTINF:-1 tvg-name="NPO 1" group-title="YABANCITV",NPO 1
-#EXTVLCOPT:network-caching=1000
-http://62.131.195.211:8086/12.ts
-#EXTINF:-1 tvg-name="NPO 2" group-title="YABANCITV",NPO 2
-#EXTVLCOPT:network-caching=1000
-http://62.131.195.211:8087/20.ts
-#EXTINF:-1 tvg-name="Z SELECT" group-title="YABANCITV",Z SELECT
-#EXTVLCOPT:network-caching=1000
-http://62.131.195.211:8086/0.ts
-#EXTINF:-1 tvg-name="EUROSPORT 1" group-title="YABANCITV",EUROSPORT 1
-#EXTVLCOPT:network-caching=1000
-http://62.131.195.211:8086/8.ts
-#EXTINF:-1 tvg-name="ESPN" group-title="YABANCITV",ESPN
-#EXTVLCOPT:network-caching=1000
-http://62.131.195.211:8086/4.ts
-#EXTINF:-1 tvg-name="EURONEWS" group-title="YABANCITV",EURONEWS
-#EXTVLCOPT:network-caching=1000
-http://46.47.113.35:4000/euronews.ts
-#EXTINF:-1 tvg-name="CNBC" group-title="YABANCITV",CNBC
-#EXTVLCOPT:network-caching=1000
-http://46.47.113.35:4000/cnbc.ts
-#EXTINF:-1 tvg-name="BBCNEWS" group-title="YABANCITV",BBCNEWS
-#EXTVLCOPT:network-caching=1000
-http://46.47.113.35:4000/bbcnews.ts
-#EXTINF:-1 tvg-name="VERONICA TV" group-title="YABANCITV",VERONICA TV
-#EXTVLCOPT:network-caching=1000
-https://daddy.mark-clark.workers.dev/?ID=378
-
 #EXTINF:-1 tvg-id="TRT 1.tr" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/trt1_250x150.png" group-title="Ulusal", TRT 1 HD
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="STAR TV.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/star-tv-tr.png" group-title="Ulusal", STAR TV HD
