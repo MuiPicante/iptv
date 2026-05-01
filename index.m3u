@@ -552,109 +552,45 @@ https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 #EXTINF:33,POWER TURK TAPTAZE
 http://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 
-#EXTM3U
-
-#EXTINF:-1 tvg-name="Campus TV 1" tvg-id="CampusTV.tr" tvg-logo="" group-title="GENEL",Campus TV 1
-https://t.freetv.fun/live/campus-tv-1.m3u8
-#EXTINF:-1 tvg-name="Dream TV" tvg-id="DreamTV.tr" tvg-logo="" group-title="MÜZİK",Dream TV
-https://t.freetv.fun/live/dream-tv.m3u8
-#EXTINF:-1 tvg-name="Dream Türk 1" tvg-id="DreamTurk.tr" tvg-logo="" group-title="MÜZİK",Dream Türk 1
-https://t.freetv.fun/live/dream-turk-1.m3u8
-#EXTINF:-1 tvg-name="Kral Pop" tvg-id="KralPop.tr" tvg-logo="" group-title="MÜZİK",Kral Pop
-https://t.freetv.fun/live/kral-kral-pop.m3u8
-#EXTINF:-1 tvg-name="Kral Pop 1" tvg-id="KralPop1.tr" tvg-logo="" group-title="MÜZİK",Kral Pop 1
-https://t.freetv.fun/live/kral-kral-pop-1.m3u8
-#EXTINF:-1 tvg-name="Music Pop" tvg-id="MusicPop.tr" tvg-logo="" group-title="MÜZİK",Music Pop
-https://t.freetv.fun/live/music-pop.m3u8
-#EXTINF:-1 tvg-name="Pop 1" tvg-id="Pop1.tr" tvg-logo="" group-title="MÜZİK",Pop 1
-https://t.freetv.fun/live/pop-1.m3u8
-#EXTINF:-1 tvg-name="Pop 2" tvg-id="Pop2.tr" tvg-logo="" group-title="MÜZİK",Pop 2
-https://t.freetv.fun/live/pop-2.m3u8
-#EXTINF:-1 tvg-name="PMC" tvg-id="PMC.tr" tvg-logo="" group-title="MÜZİK",PMC
-https://t.freetv.fun/live/pmc.m3u8
-#EXTINF:-1 tvg-name="STV 1" tvg-id="STV.tr" tvg-logo="" group-title="GENEL",STV 1
-https://t.freetv.fun/live/stv-1.m3u8
-#EXTINF:-1 tvg-name="TRT Avaz" tvg-id="TRTAvaz.tr" tvg-logo="" group-title="GENEL",TRT Avaz
-https://t.freetv.fun/live/trt-avaz.m3u8
-#EXTINF:-1 tvg-name="TRT Avaz 1" tvg-id="TRTAvaz1.tr" tvg-logo="" group-title="GENEL",TRT Avaz 1
-https://t.freetv.fun/live/trt-avaz-1.m3u8
-#EXTINF:-1 tvg-name="TRT Müzik" tvg-id="TRTMuzik.tr" tvg-logo="" group-title="MÜZİK",TRT Müzik
-https://t.freetv.fun/live/trt-muzik.m3u8
-#EXTINF:-1 tvg-name="TRT Müzik 1" tvg-id="TRTMuzik1.tr" tvg-logo="" group-title="MÜZİK",TRT Müzik 1
-https://t.freetv.fun/live/trt-muzik-1.m3u8
-#EXTINF:-1 tvg-name="TVT" tvg-id="TVT.tr" tvg-logo="" group-title="GENEL",TVT
-https://t.freetv.fun/live/tvt.m3u8
-#EXTINF:-1 tvg-name="Aksu TV" tvg-id="AksuTV.tr" tvg-logo="" group-title="YEREL",Aksu TV
-https://t.freetv.fun/live/aksu-tv.m3u8
-#EXTINF:-1 tvg-name="BRTV 1" tvg-id="BRTV1.tr" tvg-logo="" group-title="YEREL",BRTV 1
-https://t.freetv.fun/live/brtv-1.m3u8
-#EXTINF:-1 tvg-name="Best TV 2" tvg-id="BestTV2.tr" tvg-logo="" group-title="GENEL",Best TV 2
-https://t.freetv.fun/live/best-tv-2.m3u8
-#EXTINF:-1 tvg-name="Bloomberg HT 3" tvg-id="BloombergHT.tr" tvg-logo="" group-title="HABER",Bloomberg HT 3
-https://t.freetv.fun/live/bloomberg-ht-3.m3u8
-#EXTINF:-1 tvg-name="Haber Türk" tvg-id="HaberTurk.tr" tvg-logo="" group-title="HABER",Haber Türk
-https://t.freetv.fun/live/haber-turk.m3u8
-#EXTINF:-1 tvg-name="Haber Türk 2" tvg-id="HaberTurk2.tr" tvg-logo="" group-title="HABER",Haber Türk 2
-https://t.freetv.fun/live/haber-turk-2.m3u8
-#EXTINF:-1 tvg-name="Türk Haber" tvg-id="TurkHaber.tr" tvg-logo="" group-title="HABER",Türk Haber
-https://t.freetv.fun/live/turk-haber.m3u8
-#EXTINF:-1 tvg-name="TRT" tvg-id="TRT.tr" tvg-logo="" group-title="ULUSAL",TRT
-https://t.freetv.fun/live/trt.m3u8
-#EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT1.tr" tvg-logo="" group-title="ULUSAL",TRT 1
-https://t.freetv.fun/live/trt-1.m3u8
-#EXTINF:-1 tvg-name="TRT Arabi 1" tvg-id="TRTArabi.tr" tvg-logo="" group-title="ULUSAL",TRT Arabi 1
-https://t.freetv.fun/live/trt-arabi-1.m3u8
-#EXTINF:-1 tvg-name="HT Spor" tvg-id="HTSpor.tr" tvg-logo="" group-title="SPOR",HT Spor
-https://t.freetv.fun/live/ht-spor.m3u8
-#EXTINF:-1 tvg-name="Abante TV" tvg-id="AbanteTV.tr" tvg-logo="" group-title="GENEL",Abante TV
-https://t.freetv.fun/live/abante-tv.m3u8
 #EXTINF:-1 tvg-name="ATV 1" tvg-id="ATV1.tr" tvg-logo="" group-title="ULUSAL",ATV 1
 https://t.freetv.fun/live/atv-1.m3u8
-#EXTINF:-1 tvg-name="ATV 4" tvg-id="ATV4.tr" tvg-logo="" group-title="ULUSAL",ATV 4
-https://t.freetv.fun/live/atv-4.m3u8
-#EXTINF:-1 tvg-name="ATV 5" tvg-id="ATV5.tr" tvg-logo="" group-title="ULUSAL",ATV 5
-https://t.freetv.fun/live/atv-5.m3u8
-#EXTINF:-1 tvg-name="DLTV 10 1080p" tvg-id="DLTV10.tr" tvg-logo="" group-title="GENEL",DLTV 10 1080p
-https://t.freetv.fun/live/dltv-10-1080p.m3u8
 #EXTINF:-1 tvg-name="Minika Çocuk 1" tvg-id="MinikaCocuk.tr" tvg-logo="" group-title="ÇOCUK",Minika Çocuk 1
 https://t.freetv.fun/live/minika-cocuk-1.m3u8
-#EXTINF:-1 tvg-name="Sci-Fi" tvg-id="SciFi.tr" tvg-logo="" group-title="SİNEMA / DİZİ",Sci-Fi
-https://t.freetv.fun/live/sci-fi.m3u8
-#EXTINF:-1 tvg-name="CNBC-e" tvg-id="CNBCe.tr" tvg-logo="" group-title="HABER",CNBC-e
-https://t.freetv.fun/live/cnbc-e.m3u8
-#EXTINF:-1 tvg-name="24 Kanal" tvg-id="24Kanal.tr" tvg-logo="" group-title="HABER",24 Kanal
-https://t.freetv.fun/live/24-kanal.m3u8
-#EXTINF:-1 tvg-name="TRT Haber" tvg-id="TRTHaber.tr" tvg-logo="" group-title="HABER",TRT Haber
-https://t.freetv.fun/live/trt-haber.m3u8
-#EXTINF:-1 tvg-name="TGRT Haber" tvg-id="TGRTHaber.tr" tvg-logo="" group-title="HABER",TGRT Haber
-https://t.freetv.fun/live/tgrt-haber.m3u8
-#EXTINF:-1 tvg-name="TRT Haber 1" tvg-id="TRTHaber1.tr" tvg-logo="" group-title="HABER",TRT Haber 1
-https://t.freetv.fun/live/trt-haber-1.m3u8
 #EXTINF:-1 tvg-name="TRT Haber 2" tvg-id="TRTHaber2.tr" tvg-logo="" group-title="HABER",TRT Haber 2
 https://t.freetv.fun/live/trt-haber-2.m3u8
-#EXTINF:-1 tvg-name="TVRI World" tvg-id="TVRIWorld" tvg-logo="" group-title="HABER",TVRI World
-https://t.freetv.fun/live/tvri-world.m3u8
-#EXTINF:-1 tvg-name="ERT World" tvg-id="ERTWorld" tvg-logo="" group-title="HABER",ERT World
-https://t.freetv.fun/live/ert-world.m3u8
 #EXTINF:-1 tvg-name="TRT World" tvg-id="TRTWorld.tr" tvg-logo="" group-title="HABER",TRT World
 https://t.freetv.fun/live/trt-world.m3u8
-#EXTINF:-1 tvg-name="TRT World 1" tvg-id="TRTWorld1.tr" tvg-logo="" group-title="HABER",TRT World 1
-https://t.freetv.fun/live/trt-world-1.m3u8
-#EXTINF:-1 tvg-name="TRT World 2" tvg-id="TRTWorld2.tr" tvg-logo="" group-title="HABER",TRT World 2
-https://t.freetv.fun/live/trt-world-2.m3u8
-#EXTINF:-1 tvg-name="Salem News Channel" tvg-id="SalemNews" tvg-logo="" group-title="HABER",Salem News Channel
-https://t.freetv.fun/live/salem-news-channel.m3u8
-#EXTINF:-1 tvg-name="Salem News Channel 1" tvg-id="SalemNews1" tvg-logo="" group-title="HABER",Salem News Channel 1
-https://t.freetv.fun/live/salem-news-channel-1.m3u8
-#EXTINF:-1 tvg-name="Channel News Asia" tvg-id="CNA" tvg-logo="" group-title="HABER",Channel News Asia
-https://t.freetv.fun/live/channel-news-asia.m3u8
-#EXTINF:-1 tvg-name="Channel News Asia 2" tvg-id="CNA2" tvg-logo="" group-title="HABER",Channel News Asia 2
-https://t.freetv.fun/live/channelnewsasia.m3u8
-#EXTINF:-1 tvg-name="Black News Channel" tvg-id="BlackNews" tvg-logo="" group-title="HABER",Black News Channel
-https://t.freetv.fun/live/ch-ng-black-news-channel.m3u8
-#EXTINF:-1 tvg-name="Zagros" tvg-id="Zagros" tvg-logo="" group-title="GENEL",Zagros
-https://t.freetv.fun/live/zagros.m3u8
-#EXTINF:-1 tvg-name="TJK TV 1" tvg-id="TJKTV.tr" tvg-logo="" group-title="SPOR",TJK TV 1
-https://t.freetv.fun/live/tjk-tv-1.m3u8
-https://t.freetv.fun/live/zagros.m3u8
-https://t.freetv.fun/live/tjk-tv-1.m3u8
+
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_AL1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ALJAZEERA1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ASIANTELEVISION1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_AT1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_BA1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_BE2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_BEIN1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_BG1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CL1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CO1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CZ1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DELUXEMUSIC1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DIRECTVSPORTS1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DO1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DRAFTKINGS1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_EC1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_EG1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_FANDUEL1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_FI1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_GR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HU1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IE1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IL1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_JM1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_JP1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_JP2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_KE1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_KR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_LT1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_LV1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MT1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_NG1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_NO1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_NZ1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PA1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PAC-12.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PE1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PL1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_POWERNATION1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PT1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN_DE1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN_EN1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN_ES1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN_FR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN_IT1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN_NL1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN_PL1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_RALLY_TV1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_RS1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_SA1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_SA2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_SE1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_SK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_SPORTKLUB1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_SSPORTPLUS1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_SV1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_TBNPLUS1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_THESPORTPLUS1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_TR3.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US_SPORTS1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_UY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_VN1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_VOA1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_viva-russia.ru.xml.gz, https://epgshare01.online/epgshare01/locomotiontv.xml.gz"
+#EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://i.imgur.com/j786OLG.png" tvg-id="TRT1.tr" tvg-chno="1" tvg-country="TR" group-title="Turkey",TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="TRT 2 Ⓖ" tvg-logo="https://i.imgur.com/lNWrOE2.png" tvg-id="TRT2.tr" tvg-chno="2" tvg-country="TR" group-title="Turkey",TRT 2 Ⓖ
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="TRT Haber" tvg-logo="https://i.imgur.com/OVfo8Ab.png" tvg-id="TRTHaber.tr" tvg-chno="3" tvg-country="TR" group-title="Turkey",TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="TRT Spor Ⓖ" tvg-logo="https://i.imgur.com/N2wGZyf.png" tvg-id="TRTSpor.tr" tvg-chno="4" tvg-country="TR" group-title="Turkey",TRT Spor Ⓖ
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="TRT Spor 2 Ⓖ" tvg-logo="https://i.imgur.com/ysKteM8.png" tvg-chno="5" tvg-country="TR" group-title="Turkey",TRT Spor 2 Ⓖ
+https://tv-trtspor2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="TRT Çocuk" tvg-logo="https://i.imgur.com/QLFmD6d.png" tvg-id="TRTCocuk.tr" tvg-chno="6" tvg-country="TR" group-title="Turkey",TRT Çocuk
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="TRT Müzik" tvg-logo="https://i.imgur.com/fIVFCEd.png" tvg-chno="7" tvg-country="TR" group-title="Turkey",TRT Müzik
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="TRT Belgesel" tvg-logo="https://i.imgur.com/MGO87pe.png" tvg-id="TRTBelgesel.tr" tvg-chno="8" tvg-country="TR" group-title="Turkey",TRT Belgesel
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="TRT Avaz" tvg-logo="https://i.imgur.com/VhTwXu5.png" tvg-id="TRTAvaz.tr" tvg-chno="9" tvg-country="TR" group-title="Turkey",TRT Avaz
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="TRT Kurdî" tvg-logo="https://i.imgur.com/6BpymfB.png" tvg-id="TRTKurdi.tr" tvg-chno="10" tvg-country="TR" group-title="Turkey",TRT Kurdî
+https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="TRT Arabi" tvg-logo="https://i.imgur.com/yyhWOZs.png" tvg-id="TRTArabi.tr" tvg-chno="11" tvg-country="TR" group-title="Turkey",TRT Arabi
+https://tv-trtarabi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="TRT World" tvg-logo="https://i.imgur.com/JEA2xpv.png" tvg-id="TRTWorld.tr" tvg-chno="12" tvg-country="TR" group-title="Turkey",TRT World
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="TRT Türk" tvg-logo="https://i.imgur.com/OSTOQNw.png" tvg-id="TRTTurk.tr" tvg-chno="13" tvg-country="TR" group-title="Turkey",TRT Türk
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="TRT EBA Ilkokul" tvg-logo="https://i.imgur.com/wDvZfk8.png" tvg-chno="14" tvg-country="TR" group-title="Turkey",TRT EBA Ilkokul
+https://tv-e-okul00.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="TRT EBA Ortaokul" tvg-logo="https://i.imgur.com/yfPTvRx.png" tvg-chno="15" tvg-country="TR" group-title="Turkey",TRT EBA Ortaokul
+https://tv-e-okul01.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="TRT EBA Lise" tvg-logo="https://i.imgur.com/IebUZx1.png" tvg-chno="16" tvg-country="TR" group-title="Turkey",TRT EBA Lise
+https://tv-e-okul02.medya.trt.com.tr/master.m3u8
