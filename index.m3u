@@ -552,54 +552,109 @@ https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 #EXTINF:33,POWER TURK TAPTAZE
 http://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 
+#EXTM3U
+
+#EXTINF:-1 tvg-name="Campus TV 1" tvg-id="CampusTV.tr" tvg-logo="" group-title="GENEL",Campus TV 1
 https://t.freetv.fun/live/campus-tv-1.m3u8
+#EXTINF:-1 tvg-name="Dream TV" tvg-id="DreamTV.tr" tvg-logo="" group-title="MÜZİK",Dream TV
 https://t.freetv.fun/live/dream-tv.m3u8
+#EXTINF:-1 tvg-name="Dream Türk 1" tvg-id="DreamTurk.tr" tvg-logo="" group-title="MÜZİK",Dream Türk 1
 https://t.freetv.fun/live/dream-turk-1.m3u8
+#EXTINF:-1 tvg-name="Kral Pop" tvg-id="KralPop.tr" tvg-logo="" group-title="MÜZİK",Kral Pop
 https://t.freetv.fun/live/kral-kral-pop.m3u8
+#EXTINF:-1 tvg-name="Kral Pop 1" tvg-id="KralPop1.tr" tvg-logo="" group-title="MÜZİK",Kral Pop 1
 https://t.freetv.fun/live/kral-kral-pop-1.m3u8
+#EXTINF:-1 tvg-name="Music Pop" tvg-id="MusicPop.tr" tvg-logo="" group-title="MÜZİK",Music Pop
 https://t.freetv.fun/live/music-pop.m3u8
+#EXTINF:-1 tvg-name="Pop 1" tvg-id="Pop1.tr" tvg-logo="" group-title="MÜZİK",Pop 1
 https://t.freetv.fun/live/pop-1.m3u8
+#EXTINF:-1 tvg-name="Pop 2" tvg-id="Pop2.tr" tvg-logo="" group-title="MÜZİK",Pop 2
 https://t.freetv.fun/live/pop-2.m3u8
+#EXTINF:-1 tvg-name="PMC" tvg-id="PMC.tr" tvg-logo="" group-title="MÜZİK",PMC
 https://t.freetv.fun/live/pmc.m3u8
+#EXTINF:-1 tvg-name="STV 1" tvg-id="STV.tr" tvg-logo="" group-title="GENEL",STV 1
 https://t.freetv.fun/live/stv-1.m3u8
+#EXTINF:-1 tvg-name="TRT Avaz" tvg-id="TRTAvaz.tr" tvg-logo="" group-title="GENEL",TRT Avaz
 https://t.freetv.fun/live/trt-avaz.m3u8
+#EXTINF:-1 tvg-name="TRT Avaz 1" tvg-id="TRTAvaz1.tr" tvg-logo="" group-title="GENEL",TRT Avaz 1
 https://t.freetv.fun/live/trt-avaz-1.m3u8
+#EXTINF:-1 tvg-name="TRT Müzik" tvg-id="TRTMuzik.tr" tvg-logo="" group-title="MÜZİK",TRT Müzik
 https://t.freetv.fun/live/trt-muzik.m3u8
+#EXTINF:-1 tvg-name="TRT Müzik 1" tvg-id="TRTMuzik1.tr" tvg-logo="" group-title="MÜZİK",TRT Müzik 1
 https://t.freetv.fun/live/trt-muzik-1.m3u8
+#EXTINF:-1 tvg-name="TVT" tvg-id="TVT.tr" tvg-logo="" group-title="GENEL",TVT
 https://t.freetv.fun/live/tvt.m3u8
+#EXTINF:-1 tvg-name="Aksu TV" tvg-id="AksuTV.tr" tvg-logo="" group-title="YEREL",Aksu TV
 https://t.freetv.fun/live/aksu-tv.m3u8
+#EXTINF:-1 tvg-name="BRTV 1" tvg-id="BRTV1.tr" tvg-logo="" group-title="YEREL",BRTV 1
 https://t.freetv.fun/live/brtv-1.m3u8
+#EXTINF:-1 tvg-name="Best TV 2" tvg-id="BestTV2.tr" tvg-logo="" group-title="GENEL",Best TV 2
 https://t.freetv.fun/live/best-tv-2.m3u8
+#EXTINF:-1 tvg-name="Bloomberg HT 3" tvg-id="BloombergHT.tr" tvg-logo="" group-title="HABER",Bloomberg HT 3
 https://t.freetv.fun/live/bloomberg-ht-3.m3u8
+#EXTINF:-1 tvg-name="Haber Türk" tvg-id="HaberTurk.tr" tvg-logo="" group-title="HABER",Haber Türk
 https://t.freetv.fun/live/haber-turk.m3u8
+#EXTINF:-1 tvg-name="Haber Türk 2" tvg-id="HaberTurk2.tr" tvg-logo="" group-title="HABER",Haber Türk 2
 https://t.freetv.fun/live/haber-turk-2.m3u8
+#EXTINF:-1 tvg-name="Türk Haber" tvg-id="TurkHaber.tr" tvg-logo="" group-title="HABER",Türk Haber
 https://t.freetv.fun/live/turk-haber.m3u8
+#EXTINF:-1 tvg-name="TRT" tvg-id="TRT.tr" tvg-logo="" group-title="ULUSAL",TRT
 https://t.freetv.fun/live/trt.m3u8
+#EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT1.tr" tvg-logo="" group-title="ULUSAL",TRT 1
 https://t.freetv.fun/live/trt-1.m3u8
+#EXTINF:-1 tvg-name="TRT Arabi 1" tvg-id="TRTArabi.tr" tvg-logo="" group-title="ULUSAL",TRT Arabi 1
 https://t.freetv.fun/live/trt-arabi-1.m3u8
+#EXTINF:-1 tvg-name="HT Spor" tvg-id="HTSpor.tr" tvg-logo="" group-title="SPOR",HT Spor
 https://t.freetv.fun/live/ht-spor.m3u8
+#EXTINF:-1 tvg-name="Abante TV" tvg-id="AbanteTV.tr" tvg-logo="" group-title="GENEL",Abante TV
 https://t.freetv.fun/live/abante-tv.m3u8
+#EXTINF:-1 tvg-name="ATV 1" tvg-id="ATV1.tr" tvg-logo="" group-title="ULUSAL",ATV 1
 https://t.freetv.fun/live/atv-1.m3u8
+#EXTINF:-1 tvg-name="ATV 4" tvg-id="ATV4.tr" tvg-logo="" group-title="ULUSAL",ATV 4
 https://t.freetv.fun/live/atv-4.m3u8
+#EXTINF:-1 tvg-name="ATV 5" tvg-id="ATV5.tr" tvg-logo="" group-title="ULUSAL",ATV 5
 https://t.freetv.fun/live/atv-5.m3u8
+#EXTINF:-1 tvg-name="DLTV 10 1080p" tvg-id="DLTV10.tr" tvg-logo="" group-title="GENEL",DLTV 10 1080p
 https://t.freetv.fun/live/dltv-10-1080p.m3u8
+#EXTINF:-1 tvg-name="Minika Çocuk 1" tvg-id="MinikaCocuk.tr" tvg-logo="" group-title="ÇOCUK",Minika Çocuk 1
 https://t.freetv.fun/live/minika-cocuk-1.m3u8
+#EXTINF:-1 tvg-name="Sci-Fi" tvg-id="SciFi.tr" tvg-logo="" group-title="SİNEMA / DİZİ",Sci-Fi
 https://t.freetv.fun/live/sci-fi.m3u8
+#EXTINF:-1 tvg-name="CNBC-e" tvg-id="CNBCe.tr" tvg-logo="" group-title="HABER",CNBC-e
 https://t.freetv.fun/live/cnbc-e.m3u8
+#EXTINF:-1 tvg-name="24 Kanal" tvg-id="24Kanal.tr" tvg-logo="" group-title="HABER",24 Kanal
 https://t.freetv.fun/live/24-kanal.m3u8
+#EXTINF:-1 tvg-name="TRT Haber" tvg-id="TRTHaber.tr" tvg-logo="" group-title="HABER",TRT Haber
 https://t.freetv.fun/live/trt-haber.m3u8
+#EXTINF:-1 tvg-name="TGRT Haber" tvg-id="TGRTHaber.tr" tvg-logo="" group-title="HABER",TGRT Haber
 https://t.freetv.fun/live/tgrt-haber.m3u8
+#EXTINF:-1 tvg-name="TRT Haber 1" tvg-id="TRTHaber1.tr" tvg-logo="" group-title="HABER",TRT Haber 1
 https://t.freetv.fun/live/trt-haber-1.m3u8
+#EXTINF:-1 tvg-name="TRT Haber 2" tvg-id="TRTHaber2.tr" tvg-logo="" group-title="HABER",TRT Haber 2
 https://t.freetv.fun/live/trt-haber-2.m3u8
+#EXTINF:-1 tvg-name="TVRI World" tvg-id="TVRIWorld" tvg-logo="" group-title="HABER",TVRI World
 https://t.freetv.fun/live/tvri-world.m3u8
+#EXTINF:-1 tvg-name="ERT World" tvg-id="ERTWorld" tvg-logo="" group-title="HABER",ERT World
 https://t.freetv.fun/live/ert-world.m3u8
+#EXTINF:-1 tvg-name="TRT World" tvg-id="TRTWorld.tr" tvg-logo="" group-title="HABER",TRT World
 https://t.freetv.fun/live/trt-world.m3u8
+#EXTINF:-1 tvg-name="TRT World 1" tvg-id="TRTWorld1.tr" tvg-logo="" group-title="HABER",TRT World 1
 https://t.freetv.fun/live/trt-world-1.m3u8
+#EXTINF:-1 tvg-name="TRT World 2" tvg-id="TRTWorld2.tr" tvg-logo="" group-title="HABER",TRT World 2
 https://t.freetv.fun/live/trt-world-2.m3u8
+#EXTINF:-1 tvg-name="Salem News Channel" tvg-id="SalemNews" tvg-logo="" group-title="HABER",Salem News Channel
 https://t.freetv.fun/live/salem-news-channel.m3u8
+#EXTINF:-1 tvg-name="Salem News Channel 1" tvg-id="SalemNews1" tvg-logo="" group-title="HABER",Salem News Channel 1
 https://t.freetv.fun/live/salem-news-channel-1.m3u8
+#EXTINF:-1 tvg-name="Channel News Asia" tvg-id="CNA" tvg-logo="" group-title="HABER",Channel News Asia
 https://t.freetv.fun/live/channel-news-asia.m3u8
+#EXTINF:-1 tvg-name="Channel News Asia 2" tvg-id="CNA2" tvg-logo="" group-title="HABER",Channel News Asia 2
 https://t.freetv.fun/live/channelnewsasia.m3u8
+#EXTINF:-1 tvg-name="Black News Channel" tvg-id="BlackNews" tvg-logo="" group-title="HABER",Black News Channel
 https://t.freetv.fun/live/ch-ng-black-news-channel.m3u8
+#EXTINF:-1 tvg-name="Zagros" tvg-id="Zagros" tvg-logo="" group-title="GENEL",Zagros
+https://t.freetv.fun/live/zagros.m3u8
+#EXTINF:-1 tvg-name="TJK TV 1" tvg-id="TJKTV.tr" tvg-logo="" group-title="SPOR",TJK TV 1
+https://t.freetv.fun/live/tjk-tv-1.m3u8
 https://t.freetv.fun/live/zagros.m3u8
 https://t.freetv.fun/live/tjk-tv-1.m3u8
