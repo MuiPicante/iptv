@@ -275,8 +275,6 @@ https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live_720p2000000kbps/index.m3u8
 https://c.fulltvizle.com/a2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="TV 4" tvg-id="TV4.tr" tvg-logo="https://i.postimg.cc/FKkHW8KK/tv4.png" group-title="ULUSAL",TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
-#EXTINF:-1 tvg-name="WOMAN TV" tvg-id="WomanTV.tr" tvg-logo="https://i.ibb.co/bHTjDyk/woman-tv.png" group-title="ULUSAL",WOMAN TV
-https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
 #EXTINF:-1 tvg-name="TGRT EU" tvg-id="TGRTEU.tr" tvg-logo="https://i.ibb.co/kMM9hwR/tgrt-eu.png" group-title="ULUSAL",TGRT EU
 https://tgn.bozztv.com/dvrfl05/gin-tgrteu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="BIR TV" tvg-id="" tvg-logo="https://i.ibb.co/dDdPMWq/birtv.png" group-title="ULUSAL",BIR TV
@@ -305,8 +303,6 @@ https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b1828000_sltur.m3u8
 #EXTINF:-1 tvg-name="TJK TV" tvg-id="TJKTV.tr" tvg-logo="https://i.ibb.co/PrkXrRn/tjk-tv.png" group-title="SPOR",TJK TV
 https://tjktv-live.tjk.org/tjktv_1080p.m3u8
-#EXTINF:-1 tvg-name="TJK TV" tvg-id="TJKTV.tr" tvg-logo="https://i.ibb.co/PrkXrRn/tjk-tv.png" group-title="SPOR",TJK TV YURT DISI
-https://tjktv-live.tjk.org/tjktv2/tjktv2_1080p.m3u8
 ##EXTINF:-1 tvg-name="TAY TV" tvg-id="TAYTV.tr" tvg-logo="https://i.ibb.co/J3Pb4qv/tay-tv.png" group-title="SPOR",TAY TV
 ##https://raw.githubusercontent.com/rideordie16/YouTube/main/spor/taytv.m3u8
 #EXTINF:-1 tvg-name="TRT BELGESEL" tvg-id="TRTBelgesel.tr" tvg-logo="https://i.ibb.co/MkvY46q/trt-belgesel.png" group-title="BELGESEL",TRT BELGESEL
@@ -555,3 +551,55 @@ https://goldvod.org/live/hpgdiscoo/123456/191.m3u8
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 #EXTINF:33,POWER TURK TAPTAZE
 http://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+
+https://t.freetv.fun/live/campus-tv-1.m3u8
+https://t.freetv.fun/live/dream-tv.m3u8
+https://t.freetv.fun/live/dream-turk-1.m3u8
+https://t.freetv.fun/live/kral-kral-pop.m3u8
+https://t.freetv.fun/live/kral-kral-pop-1.m3u8
+https://t.freetv.fun/live/music-pop.m3u8
+https://t.freetv.fun/live/pop-1.m3u8
+https://t.freetv.fun/live/pop-2.m3u8
+https://t.freetv.fun/live/pmc.m3u8
+https://t.freetv.fun/live/stv-1.m3u8
+https://t.freetv.fun/live/trt-avaz.m3u8
+https://t.freetv.fun/live/trt-avaz-1.m3u8
+https://t.freetv.fun/live/trt-muzik.m3u8
+https://t.freetv.fun/live/trt-muzik-1.m3u8
+https://t.freetv.fun/live/tvt.m3u8
+https://t.freetv.fun/live/aksu-tv.m3u8
+https://t.freetv.fun/live/brtv-1.m3u8
+https://t.freetv.fun/live/best-tv-2.m3u8
+https://t.freetv.fun/live/bloomberg-ht-3.m3u8
+https://t.freetv.fun/live/haber-turk.m3u8
+https://t.freetv.fun/live/haber-turk-2.m3u8
+https://t.freetv.fun/live/turk-haber.m3u8
+https://t.freetv.fun/live/trt.m3u8
+https://t.freetv.fun/live/trt-1.m3u8
+https://t.freetv.fun/live/trt-arabi-1.m3u8
+https://t.freetv.fun/live/ht-spor.m3u8
+https://t.freetv.fun/live/abante-tv.m3u8
+https://t.freetv.fun/live/atv-1.m3u8
+https://t.freetv.fun/live/atv-4.m3u8
+https://t.freetv.fun/live/atv-5.m3u8
+https://t.freetv.fun/live/dltv-10-1080p.m3u8
+https://t.freetv.fun/live/minika-cocuk-1.m3u8
+https://t.freetv.fun/live/sci-fi.m3u8
+https://t.freetv.fun/live/cnbc-e.m3u8
+https://t.freetv.fun/live/24-kanal.m3u8
+https://t.freetv.fun/live/trt-haber.m3u8
+https://t.freetv.fun/live/tgrt-haber.m3u8
+https://t.freetv.fun/live/trt-haber-1.m3u8
+https://t.freetv.fun/live/trt-haber-2.m3u8
+https://t.freetv.fun/live/tvri-world.m3u8
+https://t.freetv.fun/live/ert-world.m3u8
+https://t.freetv.fun/live/trt-world.m3u8
+https://t.freetv.fun/live/trt-world-1.m3u8
+https://t.freetv.fun/live/trt-world-2.m3u8
+https://t.freetv.fun/live/salem-news-channel.m3u8
+https://t.freetv.fun/live/salem-news-channel-1.m3u8
+https://t.freetv.fun/live/channel-news-asia.m3u8
+https://t.freetv.fun/live/channelnewsasia.m3u8
+https://t.freetv.fun/live/ch-ng-black-news-channel.m3u8
+https://t.freetv.fun/live/zagros.m3u8
+https://t.freetv.fun/live/tjk-tv-1.m3u8
