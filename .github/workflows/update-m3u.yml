@@ -1,10 +1,9 @@
 name: Update IPTV Playlist
 
-# Wann soll das Skript laufen?
 on:
   schedule:
-    - cron: '0 */3 * * *' # Läuft alle 3 Stunden
-  workflow_dispatch:      # Erlaubt dir, es per Button manuell zu starten
+    - cron: '0 */3 * * *'
+  workflow_dispatch:
 
 jobs:
   update-m3u:
@@ -12,10 +11,10 @@ jobs:
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Python einrichten
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
@@ -32,6 +31,5 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add index.m3u
-          # Erstellt nur einen Commit, wenn sich die Datei wirklich geändert hat
           git diff --quiet && git diff --staged --quiet || git commit -m "Auto-Update DMAX Link"
           git push
