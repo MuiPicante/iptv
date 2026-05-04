@@ -5,7 +5,6 @@ on:
     - cron: '0 */3 * * *'
   workflow_dispatch:
 
-# Diese Zeile zwingt GitHub dazu, die neue Node 24 Version zu nutzen (entfernt die Warnung)
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
@@ -22,10 +21,11 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Bibliotheken installieren
+      - name: Browser & Bibliotheken installieren
         run: |
           python -m pip install --upgrade pip
-          pip install requests
+          pip install playwright
+          playwright install --with-deps chromium
 
       - name: Python Skript ausführen
         run: python update.py
