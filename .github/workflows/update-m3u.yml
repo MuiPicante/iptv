@@ -5,6 +5,10 @@ on:
     - cron: '0 */3 * * *'
   workflow_dispatch:
 
+# Diese Zeile zwingt GitHub dazu, die neue Node 24 Version zu nutzen (entfernt die Warnung)
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   update-m3u:
     runs-on: ubuntu-latest
