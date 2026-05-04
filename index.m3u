@@ -233,3 +233,6 @@ https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TRT Türk" tvg-logo="https://i.imgur.com/OSTOQNw.png" tvg-id="TRTTurk.tr" tvg-chno="13" tvg-country="TR" group-title="Turkey",TRT Türk
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="DMAX" tvg-id="DMAX.tr" tvg-logo="" group-title="BELGESEL",DMAX
+https://cdn507.canlitv.me/dmax.m3u8?tkn=j-2m6wW5c8YZygoEUTKlbg&tms=1777888154&hst=www.canlitv.me&ip=109.192.222.43&utkn=673b5490ac46eeeaa00814b14473aff2&ch=dmax-canli-hd
