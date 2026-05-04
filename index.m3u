@@ -234,5 +234,17 @@ https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TRT Türk" tvg-logo="https://i.imgur.com/OSTOQNw.png" tvg-id="TRTTurk.tr" tvg-chno="13" tvg-country="TR" group-title="Turkey",TRT Türk
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-name="DMAX" tvg-id="DMAX.tr" tvg-logo="" group-title="BELGESEL",DMAX
-https://cdn502.canlitv.me/dmax.m3u8?tkn=1HtmUhQ1CI5IVSpgZ60hsA&tms=1777897778&hst=www.canlitv.me&ip=109.192.222.43&utkn=84785ab893e9ed0f5bae88afe8439f95&ch=dmax-canli-hd|Referer=https://www.canlitv.me/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT1.tr" tvg-logo="https://www.canlitv.me/poster/trt1-canli-kesintisiz-izle.png" group-title="ULUSAL",TRT 1
+https://cdn502.canlitv.me/trt1.m3u8?tkn=Y34LP23lkTrVZncdqIiZow&tms=1777899115&hst=www.canlitv.me&ip=109.192.222.43&utkn=84785ab893e9ed0f5bae88afe8439f95&ch=trt1-canli-kesintisiz-izle|Referer=https://www.canlitv.me/&User-Agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-name="Tv8" tvg-id="Tv8.tr" tvg-logo="https://www.canlitv.me/poster/tv8canli-kesintisiz-izle.png" group-title="ULUSAL",Tv8
+https://cdn507.canlitv.me/tv8.m3u8?tkn=sY6s8i06l0yS-c1SaYA8gQ&tms=1777899124&hst=www.canlitv.me&ip=109.192.222.43&utkn=84785ab893e9ed0f5bae88afe8439f95&ch=tv8canli-kesintisiz-izle|Referer=https://www.canlitv.me/&User-Agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-name="Kanal D" tvg-id="KanalD.tr" tvg-logo="https://www.canlitv.me/poster/kanal-d-canli-1.png" group-title="ULUSAL",Kanal D
+https://cdn507.canlitv.me/kanald.m3u8?tkn=pAdV0sobyCvzLJwGcps1_Q&tms=1777899133&hst=www.canlitv.me&ip=109.192.222.43&utkn=84785ab893e9ed0f5bae88afe8439f95&ch=kanaldcanli-hd-izle|Referer=https://www.canlitv.me/&User-Agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-name="ATV" tvg-id="ATV.tr" tvg-logo="https://www.canlitv.me/poster/atvcanliyayin-izle.png" group-title="ULUSAL",ATV
+https://cdn508.canlitv.me/atv.m3u8?tkn=ShRKgPuMoXk_N1972vAKyA&tms=1777899142&hst=www.canlitv.me&ip=109.192.222.43&utkn=84785ab893e9ed0f5bae88afe8439f95&ch=atvcanliyayin-izle|Referer=https://www.canlitv.me/&User-Agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-name="Now TV" tvg-id="NowTV.tr" tvg-logo="https://www.canlitv.me/poster/nowtvcanlihd.png" group-title="ULUSAL",Now TV
+https://cdn508.canlitv.me/foxtv.m3u8?tkn=H4Bm9WmZHVkRQ3dmrHmNIg&tms=1777899151&hst=www.canlitv.me&ip=109.192.222.43&utkn=84785ab893e9ed0f5bae88afe8439f95&ch=nowtvcanlihd|Referer=https://www.canlitv.me/&User-Agent=Mozilla/5.0
